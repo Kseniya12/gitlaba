@@ -8,15 +8,17 @@ import java.util.Scanner;
 
                 int num1;
                 int num2;
+                int num3;
+                int num4;
                 String operation;
 
 
                 Scanner input = new Scanner(System.in);
 
-            System.out.println("please enter the first number");
+            System.out.println("please enter the 1 number");
                 num1 =input.nextInt();
 
-            System.out.println("please enter the second number");
+            System.out.println("please enter the 2 number");
                 num2 =input.nextInt();
 
                 Scanner op = new Scanner(System.in);
